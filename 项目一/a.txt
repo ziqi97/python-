@@ -1,0 +1,6 @@
+aaa|aaa123|8000
+bbb|bbb123|9800
+ccc|ccc123|7898
+ddd|ddd123|200
+
+fff|fff123|7000
